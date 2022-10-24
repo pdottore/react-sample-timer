@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/react-sample-timer/static/css/main.45a31ee8.css",
+    "main.css": "/react-sample-timer/static/css/main.c3e72a34.css",
     "main.js": "/react-sample-timer/static/js/main.dda625e5.js",
     "index.html": "/react-sample-timer/index.html",
-    "main.45a31ee8.css.map": "/react-sample-timer/static/css/main.45a31ee8.css.map",
+    "main.c3e72a34.css.map": "/react-sample-timer/static/css/main.c3e72a34.css.map",
     "main.dda625e5.js.map": "/react-sample-timer/static/js/main.dda625e5.js.map"
   },
   "entrypoints": [
-    "static/css/main.45a31ee8.css",
+    "static/css/main.c3e72a34.css",
     "static/js/main.dda625e5.js"
   ]
 }
